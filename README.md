@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Bienvenido al proyecto **CAC-MOVIES Web App**. Esta es una página web que recopila y muestra una amplia variedad de películas, permitiendo a los usuarios ver información detallada y valoraciones de cada una. La aplicación está desarrollada utilizando las siguientes tecnologías:
+Bienvenido al proyecto **CAC-MOVIES**. Esta es una página web que recopila y muestra una amplia variedad de películas, permitiendo a los usuarios ver información detallada y valoraciones de cada una. La aplicación está desarrollada utilizando las siguientes tecnologías:
 
 - **HTML**: Estructura del contenido web.
 - **CSS**: Estilos y diseño visual.
